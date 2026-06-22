@@ -100,11 +100,11 @@ class ProfilTab extends StatelessWidget {
                         child: const Icon(Icons.edit_rounded, size: 14, color: AppC.n5))),
                   ]),
                   const SizedBox(height: 10),
-                  Text('Ahmad Farhan',
+                  Text('Rifaan Nur Rohman',
                     style: GoogleFonts.poppins(
                       fontSize: 21, fontWeight: FontWeight.w700, color: Colors.white)),
                   const SizedBox(height: 4),
-                  Text('ahmad.farhan@email.com',
+                  Text('rifaan.rohman@email.com',
                     style: TextStyle(fontSize: 12.5, color: Colors.white.withOpacity(.42))),
                   const SizedBox(height: 8),
                   Wrap(spacing: 7, children: [
